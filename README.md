@@ -18,7 +18,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://www.digikey.de/en/products/filter/industrial-automation-accessories/800'
 }
 
