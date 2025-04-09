@@ -2,6 +2,8 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+
 Oxylabs' [Digikey Scraper](https://oxylabs.io/products/scraper-api/ecommerce/digikey?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Digikey website effortlessly. This brief guide showcases how Digikey Scraper works, along with code examples to help you better understand how to use it hassle-free.
 
 ### How it works
