@@ -44,8 +44,8 @@ Find code examples for other programming languages [**here**](https://github.com
   "results": [
     {
       "content": "<!DOCTYPE html><html lang=\"en-de\" dir=\"ltr\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" conte ... </html>",
-      "created_at": "2024-02-20 12:16:45",
-      "updated_at": "2024-02-20 12:16:49",
+      "created_at": "2025-02-20 12:16:45",
+      "updated_at": "2025-02-20 12:16:49",
       "page": 1,
       "url": "https://www.digikey.de/en/products/filter/industrial-automation-accessories/800",
       "job_id": "7165680679466858497",
