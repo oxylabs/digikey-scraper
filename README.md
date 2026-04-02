@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Digikey Scraper tool, you are empowered to seamlessly pull out public data from any Digikey pages. Gather pertinent product specs, such as circuit type, power rating, or manufacturer, to gather market insights and outmaneuver the competition. For any inquiries, reach out to our dedicated support team through live chat or email us at hello@oxylabs.io.
+With our Digikey Scraper tool, you are empowered to seamlessly pull out public data from any Digikey pages. Gather pertinent product specs, such as circuit type, power rating, or manufacturer, to gather market insights and outmaneuver the competition. For any inquiries, reach out to our dedicated support team through live chat or email us at support@oxylabs.io
